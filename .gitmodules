@@ -1,9 +1,0 @@
-[submodule "source/lib/fancybox"]
-	path = source/lib/fancybox
-	url = https://github.com/theme-next/theme-next-fancybox3
-[submodule "source/lib/fastclick"]
-	path = source/lib/fastclick
-	url = https://github.com/theme-next/theme-next-fastclick
-[submodule "source/lib/algolia-instant-search"]
-	path = source/lib/algolia-instant-search
-	url = https://github.com/theme-next/theme-next-algolia-instant-search
