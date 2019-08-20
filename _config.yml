@@ -155,12 +155,12 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-social:
-  GitHub: https://github.com/asing1001 || github
-  E-Mail: mailto:sing@paddingleft.com || envelope
-  Linkedin: https://www.linkedin.com/in/andychen-pro/ || linkedin
-  Facebook: https://www.facebook.com/singming.chen.7 || facebook
-  StackOverflow: https://stackoverflow.com/users/3959161/andy-chen?tab=profile || stack-overflow
+# social:
+  #GitHub: https://github.com/asing1001 || github
+  #E-Mail: mailto:sing@paddingleft.com || envelope
+  #Linkedin: https://www.linkedin.com/in/andychen-pro/ || linkedin
+  #Facebook: https://www.facebook.com/singming.chen.7 || facebook
+  #StackOverflow: https://stackoverflow.com/users/3959161/andy-chen?tab=profile || stack-overflow
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #VK Group: https://vk.com/yourname || vk
