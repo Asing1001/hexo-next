@@ -1,15 +1,16 @@
 title:
-  archive: Archive
+  timeline: Timeline
   category: Category
   tag: Tag
   schedule: Schedule
 
 menu:
   home: Home
-  archives: Archives
+  timeline: Timeline
   categories: Categories
   tags: Tags
   about: About
+  portfolio: Portfolio
   search: Search
   schedule: Schedule
   sitemap: Sitemap

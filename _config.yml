@@ -121,7 +121,7 @@ menu:
   #about: /about/ || user
   tags: /tags/ || tags
   #categories: /categories/ || th
-  archives: /archives/ || archive
+  timeline: /timeline/ || archive
   #schedule: /schedule/ || calendar
   portfolio: /portfolio/ || book
   #sitemap: /sitemap.xml || sitemap
