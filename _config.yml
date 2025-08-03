@@ -124,7 +124,7 @@ menu:
   timeline: /timeline/ || archive
   #schedule: /schedule/ || calendar
   portfolio: /portfolio/ || book
-  service: /service/ || comment
+  # service: /service/ || comment
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
